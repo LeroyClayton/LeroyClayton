@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leroy! <br/><a href="">Engineer</a> & <a href="www.linkedin.com./leroy-clayton-536a6a1a3">Cybersecurity Professional</a> <a href=""></a></h1>
+<h1>Hi, I'm Leroy! <br/><a href="">Engineer</a> & <a>Cybersecurity Professional</a> <a href=""></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
