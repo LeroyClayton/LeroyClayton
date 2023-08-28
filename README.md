@@ -1,7 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Leroy! <br/><a href="https://github.com/joshmadakor1">Engineer</a> & <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Secuirty Audit Practice (NIST,CSF)</b>
+  - [Praciting DS & Algos in Python]()
+
+<h2>📄Certifications and Educational Achievements </h2>
+
+- [Google Cybersecuirty Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- [A+ Certification Software](https://irsc.smartcatalogiq.com/en/current/catalog/courses/cet-electronic-engineering-technology/1000/cet-1179c/)
+
+
+<h2> 🤳 Connect with me:</h2>
+- [Linkedin](https://www.linkedin.com/in/leroy-clayton-536a6a1a3/)
+
+
 
 <!--
-**LeroyClayton/LeroyClayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
