@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Review Secuirty Audit Practice (NIST,CSF)</b>
-[Google Cybersecuirty Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)
+
+[Risk Assessment](https://www.coursera.org/professional-certificates/google-cybersecurity)
   
 
 <h2>📄Certifications and Educational Achievements </h2>
