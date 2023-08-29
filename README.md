@@ -4,7 +4,7 @@
 
 - <b>Review Secuirty Audit Practice (NIST,CSF)</b>
 
-[Risk Assessment](https://www.coursera.org/professional-certificates/google-cybersecurity)
+[Risk Assessment](https://imgur.com/a/wq6TsAS)
   
 
 <h2>📄Certifications and Educational Achievements </h2>
