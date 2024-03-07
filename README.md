@@ -8,7 +8,6 @@ As a tech-savvy individual, I have always enjoyed building computers and playing
 Through my exploration of computer science, I've cultivated a deep-seated enthusiasm for cybersecurity. Consequently, I'm enthusiastically looking forward to pivoting into this domain, with a particular focus on securing a role within a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
