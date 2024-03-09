@@ -12,7 +12,7 @@ Through my exploration of computer science, I've cultivated a deep-seated enthus
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python Coding                                 |<a href="https://github.com/LeroyClayton/Key-Logger">Key Logger</a>|
-| PCAP Analysis                                 |<a href="https://github.com/LeroyClayton/Key-Logger">Key Logger</a>|
+| PCAP Analysis                                 |<a href="https://github.com/LeroyClayton/PCAP-Investigation">PCAP Investigation</a>|
 
 ## Tools
 
